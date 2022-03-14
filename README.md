@@ -12,4 +12,6 @@ cyp_p450.fasta is a fasta file containing the sequences of the 13 cytochrome P45
 Packages to be installed with the following commands:
 pip install biopython
 
+The output of this code gives a heatmap using the pairwise sequence alignment data. A movie in pymol was also created from the homology modeling, which can be found here: https://www.youtube.com/watch?v=sIhZQJG-P6o
+
 The notebook for running all the code was written in Python
